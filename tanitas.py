@@ -71,15 +71,10 @@ teki.bk(565.7)
 teki.end_fill()
 
 
-print(f"Hello {name}, how are you?")
 
 
 
 
 
 
-
-
-
-print("kész")
 turtle.done()
